@@ -1,0 +1,26 @@
+{
+  "name": "Scott Hughes",
+  "age": 24,
+  "address": {
+    "street": "Errum Square",
+    "city": "Culnezso",
+    "state": "NE",
+    "zip": "85835"
+  },
+  "contact": {
+    "phone": "(418) 421-4202",
+    "servicePhone": "800977356"
+  },
+  "birthday": "1994-03-15T20:58:57.449Z",
+  "ip": "99.105.223.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Nogur ku hi ponah ika ovoubanu amo latgihba umo bajra ku nevlu razak badhavha nenpodo jet jekiuku ohsev. Leg gakjiiha tabuw nem buf finte koz aluinujaw bohos lukeezo gobikzov esur pep ulvociz vav uvtol. Eksa kak mazhek gu um kadlu itnawva pid iro hahoj pobpelhul sipniza gehatgi huukuvi ekugaw.",
+    "bio": "Lahdo iba jaafohe oju ko ojnov neculigo hagtufvud ak nikogu ipoagwul ze mab zezlofer ravva. Ar ma col zudnelse cakdamgu cide memi vovije waoz danwo ed jaec decrujva var. Zozilo dub pefizsep feftepuk mu pu jato jikaf pegmij pa giladto radpu sasokpo uloz zihak."
+  },
+  "apiKey": "3f886dd4ed0d27fade22dc927ae94cc0fea698443b2564ba7f9f96d41c92ec2b",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
