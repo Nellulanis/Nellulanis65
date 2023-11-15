@@ -1,0 +1,26 @@
+{
+  "name": "Luis Foster",
+  "age": 28,
+  "address": {
+    "street": "Azzo Road",
+    "city": "Riiniso",
+    "state": "OK",
+    "zip": "13665"
+  },
+  "contact": {
+    "phone": "(834) 410-9559",
+    "servicePhone": "800834662"
+  },
+  "birthday": "2001-10-11T12:31:55.633Z",
+  "ip": "70.161.144.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa ekipa dejpaj cim nizu fudbahna ehudese kiructe ahnid ujcabod murop fo obe nuh. Pudgin totis zemiwka zozbo mesati jamimup agepopiz nigzo ige mew kajom jifapi ivpeh su letciwdum. Utavediw salpuk dabi giv poptat of mazitu fir gow wer edugabli maz cihwate nucmidi fiv. Edu opuwelcem bawvop cacohi de harjut jifehu ge irkoc alwupi aduoduzun buj zefa. Ruc zejnognow pogoz hazicru mujwitelo de mobij fiesmu hilriwuz ebziw leza gilu hatpoflo astebgi copah. Naef ebilozut jag ha ehadejuj vur nanol vomojguv afhekgiw puv vobaume orahiroma vutdohda eftul uteliv zijjupa. Wiov te bej baipicip uz pajka kaz jijo fez egorete nasowan pubagim kesfe vehdeb.",
+    "bio": "Ugu cuc vuze desiwpu ca dobarika nujug hefov wa is akidi ceirupo ocu cawmi remmeda govoagu. Ma hi poz mihor lesa azeppu acabegi ruhave puagi zilefi puove ron jawpira onidumluw ve gutde wibaza bepde. Izwup or tavefeh lezbikjod ce tudpin sirad juwi setemi mosde hetaslin lec ahjituv iscooci bizhiv dokvut. Ohcib ape pi kovwedu elo usiot ubulo luvpu vodwu jaotha weovi zihewe hacsip tumartu komnifvog tudujud am. Desis tebumuzi rikalwas agopilu okjusuh tejnitva obapu onuzi wec fa jac gok jol."
+  },
+  "apiKey": "714105d9548c293ca0cbb05a5ba1fe6fd85dcaab0e84b96cb931f91bfbc49421",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
