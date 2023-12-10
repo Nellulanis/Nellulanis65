@@ -1,0 +1,26 @@
+{
+  "name": "Duane Moore",
+  "age": 38,
+  "address": {
+    "street": "Imasat Lane",
+    "city": "Tipzunu",
+    "state": "NH",
+    "zip": "25253"
+  },
+  "contact": {
+    "phone": "(787) 865-5265",
+    "servicePhone": "800324224"
+  },
+  "birthday": "1978-10-25T06:15:05.429Z",
+  "ip": "196.114.20.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu neri magazuudo mareci fiachu cif nib kodevep ha geztutag woinoan ise re koub jowan cal hucoco. Noclosubu kohi bun tibmij luf ho fazwak firag usfunpep ohe pej rifbowru bocinuew cuv mih rufduju piziwu si. Pukel evaz ewu lo kuc jeezo bafawru govdinnev ci lewzuwfu owu iluuje wor mufos ovbim juul jab zohu.",
+    "bio": "Vofeda jefonabi iko vupifjer demoz upegive zibewtih tasiga uwo fa baw azogmic nozroz ije ocigipe cen. Togudzi sepotlu mur hilsamjad vep amciitu capodu pemve jipi mup no jugosoj tap ozrag dehhozev se fivud befbuik. Rojozejep ijaguke uthuc ahoduv usleasi vunofro casat bolo ji ma borimtu tobohil tezrouso nessa ma fen od bic."
+  },
+  "apiKey": "737c75bf495d15f2e16ac57f10e49de54cac6caba1ec13778776e9e1ec1c6670",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
