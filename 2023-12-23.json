@@ -1,0 +1,26 @@
+{
+  "name": "Ian Roberson",
+  "age": 37,
+  "address": {
+    "street": "Tezub Highway",
+    "city": "Canumrut",
+    "state": "MD",
+    "zip": "12888"
+  },
+  "contact": {
+    "phone": "(383) 338-5578",
+    "servicePhone": "800588886"
+  },
+  "birthday": "1994-06-18T06:21:38.355Z",
+  "ip": "43.72.145.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Guslaw kiva zik kezlobis ezaidu hewriv lihvukila po ihuozme hok juuj zete lirdop ata. Tepok rohgef bulugaun pikil dab ala mugu uvtena tomuw zazapgid la mehjoh sihe ozeje bopmun. Pinsisze ki waafo hioz tobehi atejog nok ola kuh dad zetzu ifakicig.",
+    "bio": "Kow ivo udejic ruf ta okecu ser na uwwafiha ab jujvuje rirad ro seeja mewa ton domzutnel cawi. Febcoga vafkuzo inirosu supifa avrof caljuok zokote mevduco hovki biwoaj zejudu re zed dijevca kol ak fatduk. Ewe kitbelag obe vo idbil ritocto kikanew vo recsivi subir ze mif. Ogaise nuwet dos ekaopidut mi res wo hirjaenu udonuphof kidah ge biznepba."
+  },
+  "apiKey": "4fc1ac15adfb7d2bd5d0a351e8241b043aa88b0bd5a2a7669740c09b54e4955e",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
