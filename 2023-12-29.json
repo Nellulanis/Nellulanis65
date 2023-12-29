@@ -1,0 +1,26 @@
+{
+  "name": "Larry Myers",
+  "age": 34,
+  "address": {
+    "street": "Gael Square",
+    "city": "Nematado",
+    "state": "NC",
+    "zip": "44132"
+  },
+  "contact": {
+    "phone": "(923) 990-3817",
+    "servicePhone": "800391397"
+  },
+  "birthday": "1965-09-22T03:58:36.587Z",
+  "ip": "211.187.223.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Powawi gaignar dup noheomo odgimnak upiwaduz kag pibehi vusameror bocucok ivwem weez. Wasuzosal hirah uz hehzi du zonem akibe worte wotdo tahunpe tecseeki lozsijac tokodik eda wo. Huked fu camozso uzinto wucburvew wegki cuznu we zito wan onasupaj vupujha pozkokoz.",
+    "bio": "Jojtu wegnucim unepa ku weza verca fabcu ziure zot jaesmi nipuci foje tisocohe ut di te usi. Dohnoboc ranog ajumiwwun raha webemed dosaj hed hogki um gaf birjiw osuticofa vo kebomju. Goset mogjulo redabij iwotac oklo umaipuhig pumipvev wakabaci dezo fih ceh ure sufjis ja topo. Eg kokav ikapupu balimded tus pafubufer si jubore kegsomuk let lito ra noj."
+  },
+  "apiKey": "d63b3d7e411daa780677773fe2175fa87f4d4c080e57ec3a4ea27b59308da1fa",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
