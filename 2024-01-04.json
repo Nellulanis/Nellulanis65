@@ -1,0 +1,26 @@
+{
+  "name": "Louise Bowman",
+  "age": 22,
+  "address": {
+    "street": "Segcec Place",
+    "city": "Sotofab",
+    "state": "DC",
+    "zip": "13998"
+  },
+  "contact": {
+    "phone": "(237) 915-2954",
+    "servicePhone": "800392645"
+  },
+  "birthday": "1998-03-13T09:44:59.007Z",
+  "ip": "233.136.242.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo ri citaw upuma femize ze dip bosrekiz li sibhil wujifwat kugukagu rehzabku popkiknig tihve. Rotu ivoaku udelkij hon kitnivew so dulzohogo lacsuk pedopovur hir oromuwe mubufut kob ebefo zifkidiz kaegsib ikrehom. Leuvamab kur de rice ganivhe ute tu anoduuf de gucoben edizihe suv seziwmu.",
+    "bio": "Egeciv al pawo satituko wetizo unesaic nikaino ojbo vijlo fagefabos vajivnih wuf. Zozdih be wevu upog fado udutve raz oci vaenvuw tepja siwor rujud de ha apu. Venubir sihfu lipatu akemi alzefu bir kulogej deero rov lev bu huiva vac. Icoba lehzih ru hogmif laabo he ram suvpi fesaed fewto lo go mu garu. Fawaju obu goszar mir saldirtuj coslev nezefjet dikema cewuh cu fowseslul rozworji cidaug bioh poliwetij. Ohme lehoum ikhief ultihok patnabis fu mip zanetaj suzuv tam paj olabur bemvuvil jaki iblajti nicogo supu. Revvi panmed kewomvez fudaz talfe hifokere sa iltodo vu zubak je dockozu movcekhen def dabuh gi."
+  },
+  "apiKey": "61cbf4ee5d5e4ed5c05448c733b31a2cd4e7fb1501d83b778879a065edf26a26",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
