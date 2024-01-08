@@ -1,0 +1,26 @@
+{
+  "name": "Mark Lane",
+  "age": 49,
+  "address": {
+    "street": "Zusu Drive",
+    "city": "Ewakudoh",
+    "state": "SD",
+    "zip": "67591"
+  },
+  "contact": {
+    "phone": "(367) 915-1674",
+    "servicePhone": "800761834"
+  },
+  "birthday": "1991-09-21T04:49:25.624Z",
+  "ip": "199.13.161.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Sokuc ajakudfiz rad potsoz gohikba ku vifpep keh fuhwet kob as weh gevamit evoavdeb karfa fad jaoboti kelje. Kel cicwun medlovoj cim sundu omoita osa giav nafkus kakel ajeg ucemoit zis nekbozel moud. Gevobo zinjo bekujem ruojzas muaheka uze kiir lunag zuig peroh epi ozomejlu jawakacun. Fa awiwed few nubludzif ogu jidfe jekdomas po joahbuw memeheik fan wozjurip hefozis zolkubur. Lerbad ra vosgidid wevermip sakebet de zitemvoc innifor edi bu ri lafol go.",
+    "bio": "Amile du ko deholih gisiez abkor rovho cewabew cac ro fo wuevdi tohuc. Obanawip bejibbot zucwape hi zedif mec kim ma amoebmug laz puwli we ku mitmov nopi. Namor hefub gofifatu unefuw casbij wejahze hi owule piucopuw topmo osugu gekke bocuh."
+  },
+  "apiKey": "85d5bd4fa29947a721644a16d014da80e231e68efe3231af20189161006f081e",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
