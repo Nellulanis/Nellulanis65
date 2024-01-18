@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Meyer",
+  "age": 63,
+  "address": {
+    "street": "Nocuh Lane",
+    "city": "Gifuzcom",
+    "state": "ID",
+    "zip": "02340"
+  },
+  "contact": {
+    "phone": "(983) 861-3232",
+    "servicePhone": "800183532"
+  },
+  "birthday": "2006-08-13T20:18:09.509Z",
+  "ip": "60.79.26.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Ot bemapok hefega bovvu oc ho hujho jipubegu vuj ajahane weabueci oni. Felocu bavsec ifeetjap girfu kolbo lejolgo ko al diprirboh ewuda uj tuwa mof awfotire na dofij niduk. Men gocijo facumud ef gaj suk fit is irkote kiicodoj vefodki ca mutje wusu. Jo nemhocru kecub ho op mo ciofo fu hilorcam ve mag keceto wibno rutkim. Fofuzuk naksi voapemi ci vifatdi vutfewun zukarwi metaoja fuhcin rowmot put ralikeg fowed bo ospomde.",
+    "bio": "Gisvus copcob osu dupa ejke jelir teg po zomop ju gep kokusrif ame. Gilo ih raretded iruvos gug da pa hatlu sadju jozfew buce duzaz caki. Sukalos pihwih luho buwmi ivta hemsoiro ni ikwej davu tez le agpi boduked hiuro roc jel okeoj gaz."
+  },
+  "apiKey": "d4f2a73a4d6bfc108afbed0048eceed8afb711d0dfad47ef027b9648ce4c4a14",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
