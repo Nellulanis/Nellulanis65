@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Holt",
+  "age": 36,
+  "address": {
+    "street": "Recez Way",
+    "city": "Cemufaj",
+    "state": "NY",
+    "zip": "12196"
+  },
+  "contact": {
+    "phone": "(634) 218-3291",
+    "servicePhone": "800462761"
+  },
+  "birthday": "1988-12-01T07:07:52.722Z",
+  "ip": "121.113.170.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojabibka wab imjaufo haj desoh jo kaohca govkoh dan mutgauv huvajtat lehog fi coaja sohcobkod fajukide. Ojoadowid ozo ceffis vu lov ju re bon veaca ce efizegag ko zo vanebdi kav. Fasozeh ziku fom ovdoutu cunuruc oka ezdu sot bonahhet ozkiori ci viobo. Fe cibho wovahu obajom ri wom ikasigsig ve jez agma ku kowi ob vufkawpil ruvmaeni. Zevwoz lanohooz houhaco ucotas eca tedzicvo bufa kus pamib jusowej lubiv dewciz. Haf codelipo refa nih pa fugredgun uco vokeli hafjimod gu degrines pu.",
+    "bio": "Ijijosu resbas pam juf kicobmo sereg felguba sev vum jerus denvuron deza nazepgo jojake toce eba jafut sam. Gonursad welo mifutlo wihak roaku ri turub dundog pe dommi wolgogizo fen taze adke kov geguhno izhozi. Dunnutvon azobil vijaaku diuhojac jaep fi ejuga luvnof zidkoh geoszot mibji lekeeb zipuli kesigi. Cenowihe vo hone ubuzaget nituped ritlipzo hullisum vozupci fafel mem ipi ezmerdav."
+  },
+  "apiKey": "3342b0a53124c37e16ac3881e482baabcee5b940c56124bb50dfce95b84fc668",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
