@@ -1,0 +1,26 @@
+{
+  "name": "Gussie Hayes",
+  "age": 23,
+  "address": {
+    "street": "Ingi Extension",
+    "city": "Ugagvu",
+    "state": "AK",
+    "zip": "69920"
+  },
+  "contact": {
+    "phone": "(701) 892-3269",
+    "servicePhone": "800732997"
+  },
+  "birthday": "1972-09-26T10:46:21.515Z",
+  "ip": "234.187.85.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Iko jonno leizop mi wikzojajo woel upu vag macse dim zu ag lec funak vafas. Gafet juc egigeh coskatit ot wazco rewgoeha huwgusgu siiwure on luvarper mic koh ofi roksizi el supdah. Bih kafdojer hud nefli dona li jiw egafoti cof ramulte ewki reita loj. Cemtu rowuno pu el ga usfuhve negut rizuwig genunhe vuvuc iho on jor tasecke lo rik. Apduhbof goebfa ki owse demuba cimulice gakradi ah gek dewadoc safop orzeled wepgaj ri natze ki.",
+    "bio": "Egah guwosog mej ovmem rozeb puzu tim fip vuduzin luet weri ga. Marmon tecjuhaz ek im ubbu liakena bece rofog amurab zur epuco diabewik. Zetoka solurhev feliteli ihoompes ni ez pivsak mase vobenik heruw uke nakafwoz ja mew."
+  },
+  "apiKey": "a4d1fcb37a526e4b08fab9141bafbdca2bd19708e2f961a540f2dbe4fc7c4576",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
