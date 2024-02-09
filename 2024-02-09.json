@@ -1,0 +1,26 @@
+{
+  "name": "Craig Simmons",
+  "age": 44,
+  "address": {
+    "street": "Pasot Pike",
+    "city": "Keewij",
+    "state": "LA",
+    "zip": "99729"
+  },
+  "contact": {
+    "phone": "(819) 785-8806",
+    "servicePhone": "800569946"
+  },
+  "birthday": "2000-06-12T23:44:04.166Z",
+  "ip": "14.170.19.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi wovlih jibpu ji natro de ep pizej eggicon debrak seh ku sefe ja. Lalberpal vabfomwu si kuznu ci ne fenisiuju ostul suddigop je wofe eco nivset gagah fefot nobutiobi nuntisit beb. Imacucso siz wobad tu acugacseb jiidsac cik wet peskuud je uvsa edakaf jus ujlibmi aju.",
+    "bio": "Tapih ju nabmamim ithutic do tukzu co aklipuw duhsirwec bure kisbove de daj upusoit edeupmaj ud no bizgevlo. Hac ed rupaz us nottu peud cofawos buhofo as alpi tuncuda haituehe riwfibul gi inre rin imlihdez bipjogmun. Bi navehmu up jipbus ovibis ecvoto zowjepuze up oresiv sohejiji vuksu munsebi sefanad to ub siruzwoj botu ele."
+  },
+  "apiKey": "20604a5ad8b8c7ac254fd122f73a200494fc8f20d9c1d022e25d6194e2f47af7",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
