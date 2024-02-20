@@ -1,0 +1,26 @@
+{
+  "name": "Danny Myers",
+  "age": 22,
+  "address": {
+    "street": "Dowo Key",
+    "city": "Liagva",
+    "state": "IN",
+    "zip": "96473"
+  },
+  "contact": {
+    "phone": "(401) 368-3167",
+    "servicePhone": "800916328"
+  },
+  "birthday": "1997-11-21T04:18:02.676Z",
+  "ip": "16.79.36.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Dukuk luunwa jochorbaj vabe hunudoz uduvief tujli te miifini bu rar si winoklom uce me la. Urnidsa siw ko johozlap du ra zugiuz icugo ir kapairi kevo zokwi en adisa buz. Huwebiduj guew dacgumpa akawuv ruda torelki upo ki kounesol evju kenod hezu.",
+    "bio": "Sah rure avousaw lih efitawo janmijok mijkik pu muzfopje ga ampa nevjehsi una havazbak ahlemoh mita. Jat vamebag va unulow seffurre jiose sihoom udoli rode odi vomun tozow epte ve laf. De huvi giriavu ehkub vicoj lotucod jidzagjod ehme wesu bice lijpupna mehow kefuwoh buzfuvo dip. Gosu hot havum kobahja akurewdeg an heratabin bokhu ihjuiro na up wem huv ozuutesu ubuufubu."
+  },
+  "apiKey": "383b232f0429b06513e6f55c3d8b00881c6a29a828befb384376e1468245c13c",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
