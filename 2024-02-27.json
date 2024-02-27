@@ -1,0 +1,26 @@
+{
+  "name": "Sue Cain",
+  "age": 20,
+  "address": {
+    "street": "Uwazo Way",
+    "city": "Aldamnem",
+    "state": "IN",
+    "zip": "07585"
+  },
+  "contact": {
+    "phone": "(869) 661-9428",
+    "servicePhone": "800615883"
+  },
+  "birthday": "1995-06-09T21:37:17.928Z",
+  "ip": "73.115.106.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Son buj cojurpil jo birba tovbu wegora fefzihod kofouma erdewu omtihin tigpuj uzaruzhuk fosolbo. Davza wawlano ome fa gatiz doseh sakuega seto sa sim pus evuburza gep nes jurtelhi bu sulvibo pivorlur. Ip zufdowku pec hawfo eda sidsu jidcesah papafah ar codriguw tehbiz dekizo po gocbi ozokadlul licejko. Rid otisa hedafoele gehesem te fisvug wo uwla apzicas isole piw sajhuoji. Cohas riw su ne ra gohipid ino ku ganunzuv mautof oceca bocikiw acuju.",
+    "bio": "Mizi wug coh isnub wub kazzas baki piruz si kuwur otiabugu du ohabuvfu ec niljiere vowzuto. Kimhi guluep no pikfewus epouf nu zo wonwitas haf ekto gemfe taji bazer jev mefeg paiwo igafuba isa. Emaro okve mefkomu kabudmuz ki jaehemur sut ez udo ujvakval liiduuti gooberus lemif necoj perudav. Noljumif wemsodut zonelfo cu ira ko zos newus meetu kufama vo ziapfeh bufasewa sahu ezegowran."
+  },
+  "apiKey": "f757b8a3dfcae0ed0fff59722616d2c6b1c2a7993042d34eda0a93af638c0ea3",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
