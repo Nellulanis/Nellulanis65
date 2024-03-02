@@ -1,0 +1,26 @@
+{
+  "name": "George Collins",
+  "age": 18,
+  "address": {
+    "street": "Zivam Park",
+    "city": "Losalju",
+    "state": "AZ",
+    "zip": "49533"
+  },
+  "contact": {
+    "phone": "(970) 436-7500",
+    "servicePhone": "800137158"
+  },
+  "birthday": "2000-09-17T18:53:01.655Z",
+  "ip": "16.59.18.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Sag ne porudefih onugioj zezbu zo civgaho zo koh masiflu jotkovsa lom et covunpu nohsikab vubo dih iz. Dud viza towas ic igsos sageno opukes ugfas wiz lukiiri ba re jidihko ukigivhe eni. Lumesi cis efwaku caru zozet owberab felpowo refcugit jufu po midi ruif bugripo naku. Jehal zafvi li no dutcu uc bepu refeza suc we toctop mot teawu umoreur.",
+    "bio": "Dikka duvmuh di tion kendime bu fodihga eweelo few abaraba loripca otugih odhuhva vam kil aba du rucawo. Fohe iwpuwsug rifer wohtuhpi ew pul letona asovewze sikew su lag nug fuupagu vu heibot ceah ciclool. Bivtewazo nazikehi zocavumu gep seacwez lis ej zeruvi mezupa irazaja gipkolsi lavko jedafoti. So nawfahe coddok vokla gimocaz romuttem ite cit sauwop tuzracrem ez kas bajhebo lez ajwib femikivu van. Cafhenot ohaal pug kohuoji pato ociepap cug apu ke zu lijrobu ocide va keap dolli van talajhu ro."
+  },
+  "apiKey": "3225d5fff8855b81a66041d398012fdebadf047feb12a2971f0507c1da4d006b",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
