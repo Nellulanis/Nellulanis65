@@ -1,0 +1,26 @@
+{
+  "name": "Richard Richardson",
+  "age": 42,
+  "address": {
+    "street": "Nave Heights",
+    "city": "Mirolheh",
+    "state": "NJ",
+    "zip": "47965"
+  },
+  "contact": {
+    "phone": "(207) 794-6738",
+    "servicePhone": "800551391"
+  },
+  "birthday": "1987-09-11T18:00:43.342Z",
+  "ip": "43.49.85.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Owse fufe tan ija filu nan corpazer limibdas hat jec bogowaw lezehfic wo goojena tid daohne hu fuetekaz. Cenaos ke fil enu jo okagu atzasgek do no puppohun gucaf ipo rovhiwdu. Livlu dehe zolo jiudot sapi caetfi fib obbivin hasuvej pepat pasluhu etemet semo.",
+    "bio": "Tit olu uz li zuknag faze vuviwa uzeimi hotsez fomkorzi upudor acnubsa asgojbum kabewha izemepejo icruw bunja. Golkepuj pejsi kofejze hinof arica lerekul guwuzpep wurivja runozif jewaz lokcomgi samwo eva jok. Fera kugawmop wo danid li olupid iz uwhucvo vu ifapas cougrov fubobe fo ankanod wajama kas tadvik ve. Giza zoffa wib ju ufe eki sojbawaz sifjow wonucom vomimaz zapof meh."
+  },
+  "apiKey": "96009b8d1e34713705834ceffd4cb29b464dcb5c53592794f0e2d0b6954a1a14",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
