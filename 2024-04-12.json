@@ -1,0 +1,26 @@
+{
+  "name": "Jose Reyes",
+  "age": 32,
+  "address": {
+    "street": "Bulal View",
+    "city": "Lasese",
+    "state": "MT",
+    "zip": "89837"
+  },
+  "contact": {
+    "phone": "(606) 440-3441",
+    "servicePhone": "800458964"
+  },
+  "birthday": "1985-08-03T21:18:02.904Z",
+  "ip": "56.128.24.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Cufo rogone curiwno punormik bakwicpi bulnune zubuk mir kahir owfa noukra te feiduli zufoc or pivobik osuwaj juvra. Se degasfe miw roc ked sa jicratma hadtiz ud huppanun gi tivezi abaafo zublun pe kud kakiraz. Ela coeba di re unuejotid lohso dimobrum edasurdof reap osa pajag ko. Lasfor copob kemlupnob fusfiszu ze fiprid owto lirnihab puzha okuca hu hebale mupodpun cemcunki gehvurrak femifzu. Mi rurumusi ad legaz geb wili dutzez rovamar ruces fa dezwuho esisiuna va. Escin zu buguz ocitugof ri va riagedew jezezfot di forbos mis eto ot be vauve ladvicet. Wipijap veamuj nav nen pujik va jo fudih vawgorhi paftop ti pa ikodew surozdok rageb wubavo bu.",
+    "bio": "Repa ham fijitane awuveab el olpokub uke ate zod doli sunge cob ibwag os rauzo me. Kauwiwu iw fofafum ehi ige ujzanab fofwenpez helahu koeno mah uwisi dewodkak itadohuc tet nirhuw wezofbep dokednuz ti. Bo wusi par huget ribuk saet wezipi im erusapah vumobzu varigu cisu to da."
+  },
+  "apiKey": "60e16a613ff481d2fb15590688128b210f0c764537890923b2d049a7f02343be",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
