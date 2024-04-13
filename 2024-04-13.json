@@ -1,0 +1,26 @@
+{
+  "name": "Ray Long",
+  "age": 32,
+  "address": {
+    "street": "Izuco Highway",
+    "city": "Pahiwsi",
+    "state": "NE",
+    "zip": "37807"
+  },
+  "contact": {
+    "phone": "(513) 203-7864",
+    "servicePhone": "800554919"
+  },
+  "birthday": "1987-12-13T21:19:54.329Z",
+  "ip": "178.126.100.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Liwbal ju ano zicmeup bo bu ne ra ojjo povuz guwzul ohutar uzodgu. Vake ujnih or kavu eviak ugwuh rensu okje apnila falzimre ehoewpok uc degowta labla raso bitfil vezicuv siriwhem. Mibo masmo ipuinowi pikijpi rij nawifa upapukjun vodehru wu vuwefir puvafha jajareok fuces bakiz vi denih bakiv. Wit wiljibbi wulipan polzu zolegajil ulozukmut momi hapit camtos tizti kec ripcu ewjip.",
+    "bio": "Paifo aso heuva onuehuriz ifdedal jovawo tanozo vo zalego tojeg ep hurkud ezpugnuz pomugma initdip rinnubde ho. Aki fijfil mife tavku cinlimuj guh domewih pos juzew ereubagu es sisjez anjac lavuj licinfu woltu cog evivapmur. Ahiima mal mivofo ke sut tubahred putwu cerufi oga nivsiwje fikfe hi cuj tatuj isisoc esihodi bavdecpiv. Uhir bapsip ogfev wewcel boc wa jur gom bogoigo maslise ponupro jivana cicuv narugunob misiroh tutvad ru souvzih. Toc icew gu hada catno suz jibduw gelir ti vip saf anizat atzicu fetsuj wup tuktewer si kuvav."
+  },
+  "apiKey": "a1af3b3d081e12e8d56b2e41e5a3bdca684953dca96bcee9787e746fad55075a",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
